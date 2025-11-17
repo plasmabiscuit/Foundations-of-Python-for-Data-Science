@@ -1,15 +1,14 @@
-# Introduction to Python for Bioinformatics
----------------------------------------------------
+
 <p align="center">
     <img src="images/python-coursecard.png" width="400" />
 </p>
 
-
+## Overview
+The module prioritizes practical coding techniques for biological scientists who have limited or no background in programming in Python or other languages. The module also utilizes a blend of short instructional videos, interactive demonstrations, and hands-on exercises to facilitate self-directed learning and knowledge retention.
 ## **Contents**
 
 - [Practical Data-Centric Python for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
 	- [**Contents**](#contents)
-	- [**Overview**](#overview)
 	- [**Background**](#background)
 	- [**Before Starting**](#before-starting)
 	- [**Getting Started**](#getting-started)
@@ -20,8 +19,7 @@
 	- [**Funding**](#funding)
 	- [**License for Data**](#license-for-data)
 
-## **Overview**
-The module prioritizes practical coding techniques for biological scientists who have limited or no background in programming in Python or other languages. The module also utilizes a blend of short instructional videos, interactive demonstrations, and hands-on exercises to facilitate self-directed learning and knowledge retention.
+
 
 Module 0 provides the background information you need to create a Cloud Computing account at Azure, to copy the needed tutorials from Github (where they are stored), and how to use Github for your data storage needs.
 
