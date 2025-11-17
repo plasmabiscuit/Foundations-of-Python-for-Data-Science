@@ -1,7 +1,7 @@
 # Introduction to Python for Bioinformatics
 ---------------------------------------------------
 <p align="center">
-    <img src="images/id-anchor-graphic.png" width="400" />
+    <img src="images/python-coursecard.png" width="400" />
 </p>
 
 
@@ -93,7 +93,7 @@ Data will be obtained from online databases (e.g., NCBI) or will be in folders i
 
 Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
 
-- Lecture (upcoming)
+-
   - 
 - Tutorials
   - Tutorial 1: Python Overview
@@ -129,10 +129,4 @@ Learn Data Science with NumPy and Pandas
 - Tutorial 2: OOP2
 - Project: Patient data import with the Patient Class
 
-
-## **Funding**
-The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number *******. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of any of the funding agencies.
-
-## **License for Data**
-Text and materials are licensed under a Creative Commons. The [license]([license](https://github.com/drchase55/NNU_nih_python_jrc/blob/Intro_to_Python_Modules/LICENSE) allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it.
 
